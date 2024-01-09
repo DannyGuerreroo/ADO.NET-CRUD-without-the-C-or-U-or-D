@@ -1,0 +1,2 @@
+DROP PROCEDURE GetPersonNames;
+DROP PROCEDURE GetPersonByName;
